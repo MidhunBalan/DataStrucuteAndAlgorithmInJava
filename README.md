@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-| No. | Topic                                                                                                                                                         |
+| No. | Topic  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |             
 | 1   | [What is data structure](#what-is-a-prototype-chain)
 | 2   | [What is Algorithm](#what-is-a-prototype-chain)
